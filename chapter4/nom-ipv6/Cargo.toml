@@ -1,0 +1,8 @@
+[package]
+name = "nom-http"
+version = "0.1.0"
+authors = ["mamurai-0 <gohome.x105.gn@gmail.com>"]
+
+[dependencies.nom]
+version = "3.2.1"
+features = ["verbose-errors", "nightly"]
