@@ -1,0 +1,1 @@
+/Users/forute/Documents/Academy/NetworkPro/NetworkProgrammingWithRust/ApplicationLayerProtocols/ftp-example/target/debug/ftp-example.dSYM: /Users/forute/Documents/Academy/NetworkPro/NetworkProgrammingWithRust/ApplicationLayerProtocols/ftp-example/src/main.rs
