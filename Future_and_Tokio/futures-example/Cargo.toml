@@ -1,0 +1,6 @@
+[package]
+name = "futures-example"
+version = "0.1.0"
+authors = ["HideakiImamura <gohome.x105.gn@gmail.com>"]
+
+[dependencies]
