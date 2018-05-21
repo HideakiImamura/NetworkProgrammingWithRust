@@ -1,0 +1,7 @@
+[package]
+name = "openssl-example"
+version = "0.1.0"
+authors = ["HideakiImamura"]
+
+[dependencies]
+openssl = {git = "https://github.com/sfackler/rust-openssl" }
